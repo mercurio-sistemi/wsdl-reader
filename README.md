@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/goetas-webservices/wsdl-reader.svg?branch=master)](https://travis-ci.org/goetas-webservices/wsdl-reader)
-[![Code Coverage](https://scrutinizer-ci.com/g/goetas-webservices/wsdl-reader/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/goetas-webservices/wsdl-reader/?branch=master)
+[![Tests](https://github.com/mercurio-sistemi/wsdl-reader/actions/workflows/tests.yml/badge.svg)](https://github.com/mercurio-sistemi/wsdl-reader/actions/workflows/tests.yml)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/goetas-webservices/wsdl-reader/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/goetas-webservices/wsdl-reader/?branch=master)
 
 
